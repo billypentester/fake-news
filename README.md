@@ -1,2 +1,2 @@
-# fake_news
+# fake news
 chrome extension to detect fake news using ML predictions
